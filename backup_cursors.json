@@ -1,0 +1,21 @@
+﻿{
+    "name":  "Windows Aero",
+    "values":  {
+                   "Hand":  "%SystemRoot%\\cursors\\aero_link.cur",
+                   "Crosshair":  "",
+                   "IBeam":  "",
+                   "Arrow":  "%SystemRoot%\\cursors\\aero_arrow.cur",
+                   "UpArrow":  "%SystemRoot%\\cursors\\aero_up.cur",
+                   "SizeWE":  "%SystemRoot%\\cursors\\aero_ew.cur",
+                   "No":  "%SystemRoot%\\cursors\\aero_unavail.cur",
+                   "SizeAll":  "%SystemRoot%\\cursors\\aero_move.cur",
+                   "SizeNESW":  "%SystemRoot%\\cursors\\aero_nesw.cur",
+                   "SizeNWSE":  "%SystemRoot%\\cursors\\aero_nwse.cur",
+                   "SizeNS":  "%SystemRoot%\\cursors\\aero_ns.cur",
+                   "Wait":  "%SystemRoot%\\cursors\\aero_busy.ani",
+                   "Pin":  "%SystemRoot%\\cursors\\aero_pin.cur",
+                   "NWPen":  "%SystemRoot%\\cursors\\aero_pen.cur",
+                   "AppStarting":  "%SystemRoot%\\cursors\\aero_working.ani",
+                   "Help":  "%SystemRoot%\\cursors\\aero_helpsel.cur"
+               }
+}
